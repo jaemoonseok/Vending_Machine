@@ -19,7 +19,6 @@ product and return change (if necessary). Then, all coins in the Coin Slot are m
 
 ### Special Case
 
-1 Insufficient amount of money to buy the drink.
-2 The drink is out of stock
-3 Not enough coins in Coin Changer for giving a particular amount of change to the customer.
-
+1. Insufficient amount of money to buy the drink.
+2. The drink is out of stock
+3. Not enough coins in Coin Changer for giving a particular amount of change to the customer.
