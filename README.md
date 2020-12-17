@@ -1,4 +1,4 @@
-# Vending_Machine
+# Vending Machine
 
 ### Properties
 
